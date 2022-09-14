@@ -1,1 +1,3 @@
 #destacado { color: red; }
+.destacado {color: green; }
+p .destacado #gato {color: blue;}
