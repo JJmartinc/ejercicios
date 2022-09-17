@@ -1,5 +1,5 @@
 function saludo(){
-    alert('Saludar');
+    alert('Hola!!');
 }
 
 function despedir(){
